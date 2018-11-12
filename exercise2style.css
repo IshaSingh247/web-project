@@ -14,3 +14,13 @@ div {
     padding: 25px;
     margin: 25px;
 }
+
+li ul p h2{
+   color: blue
+}
+
+li class='important ul p h2{
+   background-color: #6495ED
+   colour: blue
+   text:bold
+}
